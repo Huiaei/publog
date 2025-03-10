@@ -8,7 +8,7 @@
 # Enter your GitHub repo path and branch (defaults to master)
 backend:
   name: github
-  repo: danurbanowicz/eleventy-sveltia-cms-starter
+  repo: Huiaei/publog
   branch: master
 
 # The folder used to store uploaded images
@@ -16,7 +16,7 @@ media_folder: "assets/img"
 
 # The CMS collections and their fields
 collections:
-  - name: "blog"
+  - name: "Huiaei's Notebook"
     label: "Posts"
     label_singular: "Post"
     folder: "posts"
